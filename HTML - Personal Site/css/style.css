@@ -1,0 +1,27 @@
+body {
+  background-color: #f3d5c0;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d4b499;
+  border-width: 5px;
+  width: 5%;
+}
+img {
+  height: 150px;
+}
+h1 {
+  color: #506d84;
+}
+
+h3 {
+  color: #889eaf;
+}
+
+h2 {
+  color: #889eaf;
+}
+.importantTableData {
+  color: #889eaf;
+}
